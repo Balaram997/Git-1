@@ -2,5 +2,13 @@ This is for Git practice.
 
 This is in Dev branch.
 
+<<<<<<< HEAD
 This is for merge conflict in Dev branch.
 This is for merge conflict in master.
+=======
+This is for merge conflict.
+
+changing branch without commit.
+
+changing branch without adding to staging area.
+>>>>>>> c03aafd (checking stash command)
