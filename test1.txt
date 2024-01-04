@@ -3,3 +3,4 @@ This is for Git practice.
 This is in Dev branch.
 
 This is for merge conflict in Dev branch.
+This is for merge conflict in master.
