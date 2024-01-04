@@ -7,3 +7,5 @@ This is for merge conflict.
 changing branch without commit.
 
 changing branch without adding to staging area.
+
+This is for cherry-pick command.
