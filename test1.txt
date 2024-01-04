@@ -11,3 +11,5 @@ changing branch without commit.
 changing branch without adding to staging area.
 
 This is for cherry-pick command.
+
+This is written in GitHub repo.
